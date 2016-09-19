@@ -47,3 +47,11 @@ This is a perl script that will log into a ForiGate Firewall and then do magical
 
 **TIP:** _If you change your Fortigate SSH port, adjust the PERL script “port=>22” to the appropriate port as needed._
 
+--- 
+
+I have saved this script on the server as **foribkup.pl**
+
+To run the script I do the following command **_perl /home/bk/script/forigate/foribkup.pl_**
+
+--- 
+[Credit] (http://www.jfinley.com/2013/03/automated-fortigate-configuration-backups-using-scp/)
