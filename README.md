@@ -8,7 +8,7 @@ This is a perl script that will log into a ForiGate Firewall and then do magical
 
 
 ---
-#Settings 
+#Settings & How To
 
 1 – Enable SSH on the Interface you’ll connect to;
 
